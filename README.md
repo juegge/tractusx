@@ -4,7 +4,7 @@ https://projects.eclipse.org/projects/automotive.tractusx
 ## Background
 The Catena-X alliance sees itself as an extensible ecosystem in which automotive manufacturers and suppliers, dealer associations and equipment suppliers, including the providers of applications, platforms and infrastructure, can all participate equally. The purpose of Catena-X is to create a uniform standard for information and data-sharing throughout the entire automotive value chain.
  
-For the PoC project we use Tractus-X instead of Catena-X as a name because the alliance wants to keep its name as a trademark and this project is the first of a series of further projects of the Catena-X alliance.
+For the open source project we use Tractus-X instead of Catena-X as a name because the alliance wants to keep its name as a trademark and this project is the first of a series of further projects of the Catena-X alliance.
 
 - Tracks of pits on Mars are called Tractus Catena https://en.wikipedia.org/wiki/Tractus_Catena
 - A tractus is also a neural pathway https://de.wikipedia.org/wiki/Nervenbahn
@@ -22,10 +22,7 @@ The companies involved want to increase the automotive industry’s competitiven
 Apache 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
 
 ## Initial Contribution
-Since this is a PoC project we do not yet have pre-existing code.
- 
-## PoC Scheduling
-Tractus-X and its involved parties intend to move to Eclipse as soon as possible. We hope to have the initial commit accomplished by 05/2021.
+Initial commit currently in review.
 
 ## Contact
 Contact the project developers via the Tractus-X "dev" list: 
