@@ -27,3 +27,4 @@ Initial commit currently in review.
 ## Contact
 Contact the project developers via the Tractus-X "dev" list: 
 https://accounts.eclipse.org/mailing-list/tractusx-dev
+ 
